@@ -14,6 +14,6 @@ spec:
       sourceFormat: unstructured
       git:
         auth: none
-        repo: http://github.com/yuwenma/porch-dev.git
+        repo: http://github.com/yuwenma/porch-test.git
         branch: main
-        dir: infra/porch/from-yaml
+        dir: from-yaml
